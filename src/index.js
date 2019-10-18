@@ -32,6 +32,22 @@ const quotes = [
   {
     quote: "Three months from now, you'll thank yourself.",
     author: "Unknown"
+  },
+  {
+    quote: "Travel far enough to meet yourself.",
+    author: "Unknown"
+  },
+  {
+    quote: "Progress, not perfection.",
+    author: "Unknown"
+  },
+  {
+    quote: "Just keep swimming .",
+    author: "Dory, Find Nemo"
+  },
+  {
+    quote: "Remember why you started.",
+    author: "Unknown"
   }
 ];
 
@@ -43,7 +59,11 @@ const colors = [
   "#BF9411",
   "#D99AAB",
   "#BF9411",
-  "#0D688C"
+  "#0D688C",
+  "#1FA675",
+  "#0889A6",
+  "#F27C38",
+  "#F27C38"
 ];
 
 class MyReactElement extends React.Component {
