@@ -78,7 +78,7 @@ class MyReactElement extends React.Component {
   }
 
   handleClick() {
-    const randomNumber = Math.floor(Math.random() * 7) + 1;
+    const randomNumber = Math.floor(Math.random() * 11) + 1;
     this.setState({
       quote: quotes[randomNumber].quote,
       author: quotes[randomNumber].author,
