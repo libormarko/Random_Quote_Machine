@@ -9,4 +9,4 @@ A front-end web development project in ReactJS. I wrote a blog post about the pr
 
 ## Setup and Run
 
-See the code and try the app [here](https://codesandbox.io/s/random-quote-machine-20wo6).
+Try the app [here](https://20wo6.codesandbox.io/).
